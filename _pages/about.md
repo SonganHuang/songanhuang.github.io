@@ -27,7 +27,7 @@ Since 2023, I have been on the path to becoming a finance researcher and have be
 
 # 📝 Publications 
 
-There will be many in the future (*^▽^*) 
+Hope that there will be many in the future (*^▽^*) 
 
 
 
