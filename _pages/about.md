@@ -21,26 +21,16 @@ Hi, I am Songan Huang, a PhD student in Nanayang Business School.
 
 My research interest includes corporate finance, sustainable finance, and machine learning.
 
-
-# 🔥 News
--  
-- 
+Since 2023, I have been on the path to becoming a finance researcher and have been progressing steadily. I am always open to exchanging ideas and exploring collaborations in corporate finance and asset pricing. Feel free to reach out at **SONGAN001(at)ntu.edu.sg**.
 
 # 📝 Publications 
 
-There will be many in the future (*^▽^*)
+There will be many in the future (*^▽^*) 
 
-# 🎖 Honors and Awards
-- *2024* NTU Research Scholarship 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024 - Present*, Ph.D. in Finance, Nanyang Technological University
+- *2022 - 2024*, MSc in Management (Finance), London School of Economics
+- *2017 - 2021*, B.A. in International Economics, Shanghai Jiao Tong University
+                 B.S. in Computer Technology and Applications, Shanghai Jiao Tong University
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
