@@ -36,7 +36,7 @@ There will be many in the future (*^▽^*)
 - *2024 - Present*, Ph.D. in Finance, Nanyang Technological University
 - *2022 - 2024*, MSc in Management (Finance), London School of Economics
 - *2017 - 2021*, B.A. in International Economics, Shanghai Jiao Tong University <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;B.S. in Computer Technology and Applications, Shanghai Jiao Tong University
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. in Computer Technology and Applications, Shanghai Jiao Tong University
 
 
 
