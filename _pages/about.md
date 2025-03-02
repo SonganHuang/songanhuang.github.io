@@ -23,9 +23,13 @@ My research interest includes corporate finance, sustainable finance, and machin
 
 Since 2023, I have been on the path to becoming a finance researcher and have been progressing steadily. I am always open to exchanging ideas and exploring collaborations in corporate finance and asset pricing. Feel free to reach out at **SONGAN001(at)ntu.edu.sg**.
 
+
+
 # 📝 Publications 
 
 There will be many in the future (*^▽^*) 
+
+
 
 
 # 📖 Educations
@@ -34,9 +38,13 @@ There will be many in the future (*^▽^*)
 - *2017 - 2021*, B.A. in International Economics, Shanghai Jiao Tong University
                  B.S. in Computer Technology and Applications, Shanghai Jiao Tong University
 
+
+
 # 🎖 Honors and Awards
 - *2024*, NTU Research Scholarship
 - *2020, 2019, 2018*, SJTU Academic Scholarship for Outstanding Students
+
+
 
 # 💬 Interests
 - *Violin and Piano:* Strings Section, Shanghai Jiao Tong University Chinese and Western Orchestra
