@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Songan Huang, a PhD student in Nanayang Business School.
+Hi, I am Songan Huang, a PhD student in Nanyang Business School.
 
 My research interest includes corporate finance, sustainable finance, and machine learning.
 
