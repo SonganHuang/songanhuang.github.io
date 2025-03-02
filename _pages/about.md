@@ -35,8 +35,8 @@ There will be many in the future (*^▽^*)
                  B.S. in Computer Technology and Applications, Shanghai Jiao Tong University
 
 # 🎖 Honors and Awards
-- *2024* NTU Research Scholarship
-- *2020, 2019, 2018* SJTU Academic Scholarship for Outstanding Students
+- *2024*, NTU Research Scholarship
+- *2020, 2019, 2018*, SJTU Academic Scholarship for Outstanding Students
 
 # 💬 Interests
 - *Violin and Piano:* Strings Section, Shanghai Jiao Tong University Chinese and Western Orchestra
