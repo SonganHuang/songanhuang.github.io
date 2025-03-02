@@ -34,3 +34,11 @@ There will be many in the future (*^▽^*)
 - *2017 - 2021*, B.A. in International Economics, Shanghai Jiao Tong University
                  B.S. in Computer Technology and Applications, Shanghai Jiao Tong University
 
+# 🎖 Honors and Awards
+- *2024* NTU Research Scholarship
+- *2020, 2019, 2018* SJTU Academic Scholarship for Outstanding Students
+
+# 💬 Interests
+- *Violin and Piano:* Strings Section, Shanghai Jiao Tong University Chinese and Western Orchestra
+- *Swimming:* Member, Shanghai Jiao Tong University Swimming Team
+
