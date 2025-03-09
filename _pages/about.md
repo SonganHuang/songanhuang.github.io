@@ -50,3 +50,7 @@ Hope that there will be many in the future (*^▽^*)
 - *Violin and Piano:* Strings Section, Shanghai Jiao Tong University Chinese and Western Orchestra
 - *Swimming:* Member, Shanghai Jiao Tong University Swimming Team
 
+During high school, I achieved Level 9 certification in both violin and piano from the China Conservatory of Music. In university, I joined the SJTU Chinese and Western Orchestra as a violinist, where I helped organize major concerts, including Jiangxin and Five Tones, which attracted over 300 attendees. I also performed with the orchestra at the undergraduate graduation gala, contributing to a memorable ensemble performance.
+
+I have been a member of my school’s swimming team since middle school, where I developed resilience and perseverance. I won first place in a Guangdong provincial competition and later placed fifth at the Shanghai Municipal Games.
+
