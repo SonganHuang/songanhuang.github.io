@@ -38,13 +38,13 @@ Hope that there will be many in the future (*^▽^*)  <br><br>
 - *2022 - 2024*, MSc in Management (Finance), London School of Economics
 - *2017 - 2021*, B.A. in International Economics, Shanghai Jiao Tong University
   - B.S. in Computer Technology and Applications, Shanghai Jiao Tong University
-<br>
+
 
 
 # 🎖 Honors and Awards
 - *2024*, NTU Research Scholarship
 - *2020, 2019, 2018*, SJTU Academic Scholarship for Outstanding Students
-<br>
+
 
 
 # 💬 Interests
