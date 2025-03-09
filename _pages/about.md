@@ -54,5 +54,5 @@ Hope that there will be many in the future (*^▽^*)  <br><br>
 During high school, I achieved Level 9 certification in both violin and piano from the China Conservatory of Music. In university, I joined the SJTU Chinese and Western Orchestra as a violinist, where I helped organize major concerts, including Jiangxin and Five Tones, which attracted over 300 attendees. I also performed with the orchestra at the undergraduate graduation gala, contributing to a memorable ensemble performance. Music is an active part of my life.
 <br>
 
-I have been a member of my school’s swimming team since middle school, where I developed resilience and perseverance. I won first place in a Guangdong provincial competition and later placed fifth at the Shanghai Municipal Games.
+I also have been a member of my school’s swimming team since middle school, where I developed resilience and perseverance. I won first place in a Guangdong provincial competition and later placed fifth at the Shanghai Municipal Games.
 
