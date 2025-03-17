@@ -34,9 +34,9 @@ Hope that there will be many in the future (*^▽^*)  <br><br>
 
 
 # 📖 Educations
-- *2024 - Present*, Ph.D. in Finance, Nanyang Technological University
-- *2022 - 2024*, MSc in Management (Finance), London School of Economics
-- *2017 - 2021*, B.A. in International Economics, Shanghai Jiao Tong University
+- *Present*, Ph.D. in Finance, Nanyang Technological University
+- *2024*, MSc in Management (Finance), London School of Economics
+- *2021*, B.A. in International Economics, Shanghai Jiao Tong University
   - B.S. in Computer Technology and Applications, Shanghai Jiao Tong University
 <br>
 
