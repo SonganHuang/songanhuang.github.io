@@ -23,6 +23,9 @@ My research interest includes corporate finance, sustainable finance, and machin
 
 Since 2023, I have been on the path to becoming a finance researcher and have been progressing steadily. I am always open to exchanging ideas and exploring collaborations in corporate finance and asset pricing. Feel free to reach out at **SONGAN001(at)ntu.edu.sg**.
 <br>
+- [CV](/assets/cv/Songan_Huang_CV.pdf)
+
+
 <br>
 
 
